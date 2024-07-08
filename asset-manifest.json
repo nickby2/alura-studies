@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/%7Balura-studies%7D/static/css/main.5ce3d55b.css",
+    "main.js": "/%7Balura-studies%7D/static/js/main.20de351c.js",
+    "static/media/check-mark.svg": "/%7Balura-studies%7D/static/media/check-mark.36165484cc1d49d3dff2.svg",
+    "index.html": "/%7Balura-studies%7D/index.html",
+    "main.5ce3d55b.css.map": "/%7Balura-studies%7D/static/css/main.5ce3d55b.css.map",
+    "main.20de351c.js.map": "/%7Balura-studies%7D/static/js/main.20de351c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ce3d55b.css",
+    "static/js/main.20de351c.js"
+  ]
+}
